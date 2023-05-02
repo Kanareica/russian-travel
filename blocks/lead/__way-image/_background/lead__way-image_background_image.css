@@ -1,0 +1,7 @@
+.lead__way-image_background_image {
+    background-image: url("../../../../images/plackart-view.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 615px;
+    width: 100%;
+}
