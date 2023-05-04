@@ -1,5 +1,5 @@
 .cover__background {
-    height: 740px;
-    width: 1184px;
+    position: relative;
+    width: 100%;
     z-index: 1;
 }

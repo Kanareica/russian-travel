@@ -9,3 +9,7 @@
     color: rgba(255, 255, 255, 1);
     margin: 0;
 }
+
+.footer__link:hover {
+    opacity: 0.8;
+}
