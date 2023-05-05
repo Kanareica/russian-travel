@@ -1,5 +1,5 @@
 .lead__way-image {
-    width: calc(100%-296px);
+    width: calc(100% - 296px);
     margin: 64px 148px 0;
     display: block;
 }
