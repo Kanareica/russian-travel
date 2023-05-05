@@ -3,3 +3,9 @@
     grid-column-start: 2;
     align-self: end;
 }
+
+@media screen and (max-width: 767px) {
+    .place__website {
+        margin-top: 32px;
+    }
+}

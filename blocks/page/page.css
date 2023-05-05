@@ -1,4 +1,5 @@
 .page {
     box-sizing: border-box;
+    overflow: scroll;
     background-color: rgba(42, 44, 47, 1);
 }

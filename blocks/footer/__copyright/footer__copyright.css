@@ -8,3 +8,10 @@
     color: rgba(255, 255, 255, 1);
     margin: 0;
 }
+
+@media screen and (max-width: 767px) {
+    .footer__copyright {
+        margin-top: 48px;
+        text-align: left;
+    }
+}
