@@ -1,18 +1,8 @@
 .cover__link {
-    z-index: 3;
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
     align-items: center;
-    position: absolute;
-    left: calc(50% - 280px);
-    top: calc(50% - 125px);
     text-decoration: none;
     margin: 0;
-}
-
-@media screen and (max-width: 767px) {
-    .cover__link {
-        left: calc((100% - 288px)/2);
-        top: calc((100% - 134px)/2);
-    }
 }
