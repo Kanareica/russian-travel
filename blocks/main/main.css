@@ -1,22 +1,16 @@
 .main {
     box-sizing: border-box;
-    padding: 56px 0 92px;
+    padding: 56px 0 0;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
     .main {
-        padding: 56px 0 92px;
+        padding: 48px 0 0;
     }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (max-width: 767px) {
     .main {
-        padding: 48px 0 88px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .main {
-        padding: 48px 0 64px;
+        padding: 48px 0 0;
     }
 }
