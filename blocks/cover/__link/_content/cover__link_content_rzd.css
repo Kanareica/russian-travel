@@ -7,11 +7,3 @@
     aspect-ratio: 16/10;
     width: 100%;
 }
-
-.cover__link_content_rzd::before {
-    z-index: 2;
-    position: relative;
-    width: 100%;
-    opacity: 0.8; 
-    background-color: rgba(42, 44, 47, 1);
-}
