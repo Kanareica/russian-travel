@@ -15,7 +15,7 @@
 @import url("../blocks/lead/__subtitle/lead__subtitle.css");
 @import url("../blocks/lead/__title/lead__title.css");
 @import url("../blocks/intro/__list-item/intro__list-item.css");
-@import url("../blocks/intro/__list-item/_selection/intro__list-item_selection_highlight.css");
+@import url("../blocks/intro/__selection/intro__selection.css");
 @import url("../blocks/intro/__list/intro__list.css");
 @import url("../blocks/intro/__text/intro__text.css");
 @import url("../blocks/intro/__title/intro__title.css");
