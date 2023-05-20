@@ -5,6 +5,11 @@
     align-items: center;
     text-decoration: none;
     margin: 0;
+    background-image: url("../../../images/rzd.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    aspect-ratio: 16/10;
+    width: 100%;
 }
 
 .cover__link:after {

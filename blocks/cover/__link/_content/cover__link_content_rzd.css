@@ -1,9 +1,0 @@
-.cover__link_content_rzd {
-    z-index: 1;
-    position: relative;
-    background-image: url("../../../../images/rzd.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    aspect-ratio: 16/10;
-    width: 100%;
-}
