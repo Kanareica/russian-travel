@@ -3,4 +3,4 @@
 # Здесь начало проекта о путешествии по России. Со всей интересной информацией о городах и местах, через которые предстоит проехать.
 # Сделана адаптация под популярные размеры экранов.
 
-[Ссылка на макет в GitHub](https://github.com/Kanareica/russian-travel)
+[Ссылка на макет в GitHub](https://github.com/Kanareica/russian-travel/blob/main/index.html)
