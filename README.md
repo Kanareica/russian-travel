@@ -7,4 +7,4 @@
 1) добавить плавность анимациям
 2) Создать действующий сайт под эту верстку для наглядной демонстрации
 
-# Ссылка на GitHub[https://kanareica.github.io/russian-travel/]
+# [Ссылка на макет в GitHub](https://kanareica.github.io/russian-travel/)
